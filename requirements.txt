@@ -1,0 +1,6 @@
+langgraph>=0.0.19
+pydantic>=2.7.1
+langchain-core
+langchain-openai
+pytest
+pytest-asyncio
